@@ -1,0 +1,43 @@
+.adv_h2_background {
+  background-color: #8b0fbc;
+  color: rgb(250, 237, 255);
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: 0.3s;
+}
+.adv_h2_background:hover {
+  background-color: #c01616;
+  color: rgb(40, 24, 40);
+}
+.app_h2_background {
+  background-color: #0fbca5;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: 0.3s;
+}
+.app_h2_background:hover {
+  background-color: #5e3da6;
+  color: white;
+}
+.general_h2_background {
+  background-color: #bc770f;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: 0.3s;
+}
+.general_h2_background:hover {
+  background-color: #1356ff;
+  color: white;
+}
+
+.hide_class {
+  display: none !important;
+}
+.fs1{
+  background-color: #ffffff!important;
+  color: rgba(20, 20, 20, 0.836);
+  font-size: 17px;
+}

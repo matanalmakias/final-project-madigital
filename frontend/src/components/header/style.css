@@ -1,0 +1,33 @@
+.header1 {
+  background-color: #ecf8ffd1;
+  width: 100%;
+  padding: 15px;
+  border-radius: 40px;
+}
+.my_logo {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.106);
+  border-radius: 33px;
+  padding: 17px;
+  transition: 0.4s;
+}
+.my_logo:hover {
+  background-color: rgba(255, 255, 255, 0.146);
+}
+@media (max-width: 767px) {
+  .my_logo {
+    width: 49% !important;
+  }
+}
+@media (min-width: 768px) {
+  .my_logo {
+    width: 25% !important;
+  }
+}
+
+.my_bg {
+  background-color: rgb(65, 64, 83);
+}
+.hide_class {
+  display: none;
+}

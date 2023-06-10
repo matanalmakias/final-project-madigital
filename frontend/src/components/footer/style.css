@@ -1,0 +1,15 @@
+.back_hover:hover {
+  background-color: #e5a2ff !important;
+  color: white !important;
+}
+.info_text {
+  color: rgb(224, 232, 255);
+  font-size: 16px;
+  text-align: center;
+
+}
+.copyright_text {
+  font-size: 15px;
+  text-align: center;
+  color: #ffffffb0;
+}

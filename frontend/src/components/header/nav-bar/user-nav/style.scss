@@ -1,0 +1,25 @@
+.nav-link1 {
+  background-color: white;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.095);
+  border-radius: 15px;
+  width: 50%;
+}
+.nav-link1:hover {
+  background-color: rgba(234, 237, 255, 0.91);
+  color: rgb(154, 154, 154) !important;
+}
+.login_button {
+  background-color: #fff;
+  padding: 2px;
+
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: 600;
+  border-radius: 10px;
+  color: #9114b0;
+  transition: 0.2s;
+}
+.login_button:hover {
+  background-color: #c21bff;
+  color: white;
+}

@@ -1,0 +1,47 @@
+.div_of_contact {
+  background-color: rgba(255, 255, 255, 0.82);
+  padding: 25px !important;
+  border-radius: 80px;
+  width: 100%;
+}
+.contact_form_submit {
+  background-color: #fff;
+  padding: 8px;
+  width: 20%;
+  border: none;
+  border-radius: 10px;
+  transition: 0.1s;
+}
+.contact_form_submit:hover {
+  background-color: rgb(189, 226, 255);
+  margin: 0.3px;
+}
+.contact_form_label {
+  background-color: rgba(151, 139, 255, 0.587);
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.contact_form_label:hover {
+  background-color: white;
+  color: rgba(151, 139, 255, 0.587);
+}
+.contact_h4 {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 10px;
+  transition: 0.3s;
+}
+.contact_h4:hover {
+  background-color: rgb(196, 79, 255);
+}
+.contact-content {
+  background-color: rgba(242, 244, 255, 0.854);
+  padding: 17px;
+  text-align: center;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 25px;
+  color: rgb(80, 80, 80);
+}

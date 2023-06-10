@@ -1,0 +1,11 @@
+.continue_hover:hover {
+  background-color: #005a7e !important;
+  color: white !important;
+}
+.app_info_text {
+  background-color: #97989e !important;
+  font-size: 15px;
+  font-weight: 600;
+  color: rgb(246, 245, 255);
+  padding: 7px;
+}

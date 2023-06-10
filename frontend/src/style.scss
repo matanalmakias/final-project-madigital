@@ -1,0 +1,57 @@
+.border1{
+  border-radius: 40px!important;
+}
+.btn5 {
+  background-color: rgb(172, 90, 255);
+  color: white;
+  padding: 4px;
+  text-align: center;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.3s;
+  border: none;
+  border-radius: 10px;
+}
+.btn5:hover {
+  background-color: rgb(246, 234, 255);
+  color: rgb(88, 40, 121);
+}
+.btn3 {
+  background-color: #fff;
+  border: none;
+  padding: 4px;
+  border-radius: 3px;
+  font-size: 13px;
+}
+.btn3:hover {
+  background-color: rgba(255, 255, 255, 0.864);
+}
+.btn4 {
+  background-color: rgb(255, 255, 255);
+  border: none;
+  padding: 3px !important;
+  width: 100%;
+  cursor: pointer;
+  border: 1px solid rgba(0, 0, 0, 0.014);
+  transition: 0.2s;
+  border-radius: 22px;
+}
+.btn4:hover {
+  background-color: rgba(239, 161, 255, 0.853);
+  color: rgb(254, 244, 255);
+}
+.text1 {
+  background-color: rgba(184, 184, 184, 0.638);
+  border-radius: 3px;
+}
+.btn2 {
+  text-align: center;
+  background-color: #fff;
+  cursor: pointer;
+}
+.btn2:hover {
+  background-color: rgba(255, 255, 255, 0.87);
+}
+body {
+  font-family: "Abel", sans-serif;
+}

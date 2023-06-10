@@ -1,0 +1,53 @@
+.p1 {
+  background-color: rgba(255, 255, 255, 0.135);
+  border-radius: 20px;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.044);
+}
+.btn6 {
+  background-color: rgba(80, 94, 99, 0.967);
+  padding: 4px;
+  color: white;
+  transition: 0.4s;
+  border-radius: 5px;
+  border: none;
+}
+.btn6:hover {
+  background-color: rgba(199, 212, 216, 0.927);
+  color: rgb(121, 119, 119);
+}
+.label2 {
+  background-color: rgba(218, 174, 251, 0.95);
+  padding: 4px;
+  color: white;
+  transition: 0.1s;
+}
+.label2:hover {
+  background-color: rgba(255, 255, 255, 0.978);
+  color: rgb(174, 174, 174);
+}
+.div_of_profile {
+  background-color: rgba(238, 239, 255, 0.82);
+  border-radius: 38px;
+  width: 100%;
+  padding: 22px !important;
+  text-align: center;
+}
+.btn1 {
+  background-color: #fff;
+  padding: 7px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.btn1:hover {
+  background-color: rgba(255, 255, 255, 0.763);
+}
+@media (min-width: 768px) {
+  .profile-img {
+    width: 30% !important;
+  }
+}
+@media (max-width: 767px) {
+  .profile-img {
+    width: 46% !important;
+  }
+}

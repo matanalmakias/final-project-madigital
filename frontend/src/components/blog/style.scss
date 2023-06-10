@@ -1,0 +1,35 @@
+.button{
+    cursor: pointer;
+
+}
+.hover1:hover{
+    transition: 0.1s;
+    background-color: #d1a4eb;
+    color: white;
+}
+.hover2:hover{
+    transition: 0.1s;
+    background-color: #5174c0!important;
+    color: white;
+}
+.label4{
+    background-color: #e3fd83;
+    border-radius: 5px;
+    color: rgb(255, 51, 0);
+    transition: 0.2s;
+    padding: 3px;
+}
+.label4:hover{
+    background-color: #e3fd8380;
+    color: #11020265;
+transition: 0.2s;
+}
+.w_10{width: 9%!important;}
+.w_20{width: 19%!important;}
+.w_30{width: 28%!important;}
+.w_40{width: 38%!important;}
+.w_50{width: 48%!important;}
+.w_60{width: 58%!important;}
+.w_70{width: 68%!important;}
+.w_80{width: 78%!important;}
+.w_90{width: 88%!important;}

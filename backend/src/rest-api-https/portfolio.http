@@ -1,0 +1,28 @@
+#### -get
+GET http://localhost:3001/api/portfolio/
+
+#### -getCategories
+GET http://localhost:3001/api/portfolio/getCategories
+
+### -removeLike
+PUT http://localhost:3001/api/portfolio/removeLike/6469da622698a184b7bf3afe
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDcxNjIyNTgwZTNmOTc0OTFhMzQwMiIsImlhdCI6MTY4NDY1OTY5NCwiZXhwIjoxNjg3MjUxNjk0fQ.oEpfVJvM0UMioT_cQsG98sEE4oYy8NGey7zix2VRBBw
+
+### -addLike
+PUT http://localhost:3001/api/portfolio/addLike/6469da622698a184b7bf3afe
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDcxNjIyNTgwZTNmOTc0OTFhMzQwMiIsImlhdCI6MTY4NDY1OTY5NCwiZXhwIjoxNjg3MjUxNjk0fQ.oEpfVJvM0UMioT_cQsG98sEE4oYy8NGey7zix2VRBBw
+
+### -addShare
+PUT http://localhost:3001/api/portfolio/addShare/6469da622698a184b7bf3afe
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDcxNjIyNTgwZTNmOTc0OTFhMzQwMiIsImlhdCI6MTY4NDY1OTY5NCwiZXhwIjoxNjg3MjUxNjk0fQ.oEpfVJvM0UMioT_cQsG98sEE4oYy8NGey7zix2VRBBw
+
+###  -create
+POST http://localhost:3001/api/portfolio/create
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0M2FhYjI0MmQ1ODU4YzcwN2MzY2VmZSIsImlhdCI6MTY4MjM1NjkzMCwiZXhwIjoxNjg0OTQ4OTMwfQ.A5MyJihZkeZQVcZprYvxacpk1eyUF6B9l_oOn8t73VU
+
+{
+"desc":""
+}
+
+

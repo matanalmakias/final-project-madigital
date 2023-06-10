@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64471622580e3f97491a3402"
+  },
+  "isComplete": true,
+  "email": "inviteserv@gmail.com",
+  "verficationCode": 266250,
+  "roles": [
+    {
+      "$oid": "6445e35a778ae96e5d40d589"
+    },
+    {
+      "$oid": "6445e35a778ae96e5d40d58a"
+    }
+  ],
+  "__v": 15,
+  "address": {},
+  "name": "Matan",
+  "phoneVerfCode": 535032,
+  "phone": "0526757706",
+  "website": "madigital.co.il",
+  "products": {
+    "pending": [
+      {
+        "$oid": "64459f8ede7eba08edc2ecd6"
+      },
+      {
+        "$oid": "6445a009de7eba08edc2ece2"
+      },
+      {
+        "$oid": "6444de93de7eba08edc2ecbe"
+      }
+    ],
+    "completed": []
+  },
+  "likes": {
+    "posts": [],
+    "likes": 0
+  }
+}]
